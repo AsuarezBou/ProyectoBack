@@ -1,0 +1,15 @@
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\bin\Debug\net5.0\ProyectoBack.Infrastructure.deps.json
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\bin\Debug\net5.0\ProyectoBack.Infrastructure.dll
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\bin\Debug\net5.0\ref\ProyectoBack.Infrastructure.dll
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\bin\Debug\net5.0\ProyectoBack.Infrastructure.pdb
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\bin\Debug\net5.0\ProyectoBack.Domain.dll
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\bin\Debug\net5.0\ProyectoBack.Domain.pdb
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\obj\Debug\net5.0\ProyectoBack.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\obj\Debug\net5.0\ProyectoBack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\obj\Debug\net5.0\ProyectoBack.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\obj\Debug\net5.0\ProyectoBack.Infrastructure.AssemblyInfo.cs
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\obj\Debug\net5.0\ProyectoBack.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\obj\Debug\net5.0\ProyectoBack.Infrastructure.csproj.CopyComplete
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\obj\Debug\net5.0\ProyectoBack.Infrastructure.dll
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\obj\Debug\net5.0\ref\ProyectoBack.Infrastructure.dll
+C:\Users\Aldo Suarez\source\repos\ProyectoBack\Infrastructure\obj\Debug\net5.0\ProyectoBack.Infrastructure.pdb
